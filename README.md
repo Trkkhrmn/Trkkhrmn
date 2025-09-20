@@ -1,6 +1,6 @@
 # Tarık Kahraman
 
-### Kontrol ve Otomasyon Mühendisi | Robotik ve Yapay Zeka Araştırmacısı
+### Kontrol ve Otomasyon Mühendisi
 
 <p align="left">
   <a href="https://www.linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]/" target="_blank">
