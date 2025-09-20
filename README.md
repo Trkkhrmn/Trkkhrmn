@@ -1,63 +1,69 @@
-# Adınız Soyadınız
+# Tarık Kahraman
 
-### Bilgisayar Mühendisliği Yüksek Lisans Öğrencisi | Yapay Zeka Araştırmacısı
+### Kontrol ve Otomasyon Mühendisi | Robotik ve Yapay Zeka Araştırmacısı
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kullaniciadiniz/" target="_blank">
+  <a href="https://www.linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=scholarid" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/orcid-id" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" />
-  </a>
-  <a href="mailto:email@adresiniz.com">
+  <a href="mailto:tarik.kahraman.email@ornek.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <!-- Varsa Google Scholar veya kişisel web siteni de ekleyebilirsin -->
 </p>
 
 ---
 
-### 👨‍💻 Hakkımda
+### 🤖 Hakkımda
 
-Ben [Üniversiteniz]'de [Bölümünüz] bölümünde yüksek lisans öğrencisiyim. Temel araştırma ilgi alanlarım **Doğal Dil İşleme (NLP)** ve **Bilgisayarlı Görü (Computer Vision)** kesişimindedir. Şu anda, [Tez konunuz veya mevcut projeniz hakkında kısa bir cümle] üzerine çalışıyorum. Amacım, [uzun vadeli hedefinizden bir cümle, örn: "insan-bilgisayar etkileşimini daha akıllı hale getiren modeller geliştirmek."].
+Ben, **Yıldız Teknik Üniversitesi Kontrol ve Otomasyon Mühendisliği** bölümü son sınıf öğrencisiyim. Akademik ve profesyonel ilgi alanlarımın merkezinde **robotik sistemler**, özellikle de **çoklu robotların görev paylaşımı**, **otonom navigasyon** ve **yapay zeka entegrasyonu** yer alıyor.
+
+Bölümümün getirdiği güçlü **kontrol sistemleri teorisi** altyapısını, **ROS/ROS 2**, **Gazebo** ve **Unity** gibi modern simülasyon ortamlarında pratik uygulamalarla birleştirmeye odaklanıyorum. Amacım, karmaşık problemleri çözebilen akıllı, otonom ve verimli robotik sistemler tasarlamaktır.
 
 ### 🛠️ Teknik Yeteneklerim
 
-- **Programlama Dilleri:** Python, C++, SQL
-- **Makine Öğrenmesi & Derin Öğrenme:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, OpenCV
-- **Veri Bilimi:** Pandas, NumPy, Matplotlib, Seaborn
-- **Araçlar ve Platformlar:** Git, Docker, LaTeX, Jupyter, Google Colab
+| Kategori | Teknolojiler |
+|---|---|
+| **Programlama Dilleri** | `Python`, `C++`, `C` |
+| **Robotik & Simülasyon** | `ROS / ROS 2`, `Gazebo`, `Unity`, `MATLAB/Simulink`, `Pygame` |
+| **Yapay Zeka & Kütüphaneler** | `TensorFlow`, `Keras`, `Scikit-learn`, `OpenCV`, `NumPy`, `Pandas` |
+| **Alan Uzmanlığı** | `Kontrol Sistemleri Tasarımı`, `Otonom Navigasyon`, `SLAM`, `Engel Aşma`, `Sensör Füzyonu` |
 
 ### 🚀 Öne Çıkan Projelerim
 
-<!-- PINNED REPOSITORIES BÖLÜMÜNDEKİ PROJELERİ BURADA DETAYLANDIRIN -->
+<!-- BURASI EN ÖNEMLİ KISIM! GitHub'a sabitlediğin (pinned) en iyi projelerini burada detaylandır. -->
+<!-- PROJELERİNİN GİF'LERİNİ VEYA GÖRSELLERİNİ EKLEMEK ÇOK ETKİLİ OLUR! -->
 
-| Proje                                     | Açıklama                                                                                               | Teknolojiler                               |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| **[Proje Adı 1](link-to-repo-1)**          | Bu projede, [projenin kısa ve etkili açıklaması].                                                      | `PyTorch`, `Transformers`, `Gradio`        |
-| **[Proje Adı 2](link-to-repo-2)**          | [Problem]'i çözmek için [metodoloji] kullanarak [sonuç] elde eden bir model geliştirdim.                | `TensorFlow`, `OpenCV`, `Streamlit`        |
-| **[Proje Adı 3](link-to-repo-3)**          | [Ders Adı] dersi kapsamında geliştirilen bu projede [projenin amacı ve içeriği].                         | `Scikit-learn`, `Pandas`, `Flask`          |
+#### 1. Multi-Robot Task Allocation (MRTA) Simulation
+[![proje-gif-1](https://via.placeholder.com/400x200.png?text=Proje+Görseli/GIF'i)](https://github.com/kullaniciadin/proje-repo-linki)
+- **Açıklama:** ROS ve Gazebo ortamında, merkezi olmayan bir algoritma kullanarak birden fazla robotun belirli görevleri verimli bir şekilde paylaştığı bir simülasyon projesi.
+- **Teknolojiler:** `ROS`, `Gazebo`, `Python`, `Görev Atama Algoritmaları`
+- **Repo:** `[GitHub - Proje Adı](https://github.com/kullaniciadin/proje-repo-linki)`
 
-### 📚 Akademik Çalışmalarım ve Yayınlarım
+#### 2. Derin Pekiştirmeli Öğrenme ile Otonom Navigasyon
+[![proje-gif-2](https://via.placeholder.com/400x200.png?text=Proje+Görseli/GIF'i)](https://github.com/kullaniciadin/proje-repo-linki-2)
+- **Açıklama:** Unity ML-Agents kullanılarak geliştirilen bu projede, bir mobil robotun dinamik engellerle dolu bir ortamda hedefe ulaşması için Derin Pekiştirmeli Öğrenme (DQN) modeli eğitildi.
+- **Teknolojiler:** `Unity`, `Python`, `TensorFlow`, `Pekiştirmeli Öğrenme`
+- **Repo:** `[GitHub - Proje Adı](https://github.com/kullaniciadin/proje-repo-linki-2)`
 
-- **[Makale Başlığı](link-to-paper.pdf)**, *Konferans/Dergi Adı*, 2023. [[Kod](link-to-code-repo)]
-  - *Yazar A, Yazar B, **Adınız Soyadınız***
-- **[Poster Başlığı](link-to-poster.pdf)**, *Sunulduğu Etkinlik*, 2022.
+#### 3. SLAM Algoritması ile Haritalama ve Konum Belirleme
+- **Açıklama:** Bilinmeyen bir ortamda sensör verilerini (LIDAR) kullanarak eş zamanlı olarak harita çıkaran ve kendi konumunu belirleyen bir mobil robotun ROS tabanlı uygulaması.
+- **Teknolojiler:** `ROS`, `C++`, `SLAM`, `Sensör Füzyonu`
+- **Repo:** `[GitHub - Proje Adı](https://github.com/kullaniciadin/proje-repo-linki-3)`
+
 
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadiniz&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
 ### 📫 Bana Ulaşın
 
-Araştırma işbirlikleri, projeler veya sadece bir merhaba demek için aşağıdaki kanallardan bana ulaşabilirsiniz:
+İşbirliği fırsatları, projeler veya robotik üzerine sohbet etmek için bana aşağıdaki kanallardan ulaşabilirsiniz.
 
-- 📧 **E-posta:** `email@adresiniz.com`
-- 💼 **LinkedIn:** [linkedin.com/in/kullaniciadiniz](https://www.linkedin.com/in/kullaniciadiniz/)
+- 📧 **E-posta:** `tarik.kahraman@std.yildiz.edu.tr`
+- 💼 **LinkedIn:** [linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]](https://www.linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]/)
